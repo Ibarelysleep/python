@@ -1,3 +1,5 @@
+#pythoncodetocrackapassowrd
+
 psswrd = int(input("Enter the password you wish to test:\n"))
 psswrdlen = len(psswrd)
 characters = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0",\
